@@ -1,0 +1,16 @@
+{
+  "versionCode": 14,
+  "versionName": "2.4",
+  "minSupported": 1,
+  "apkUrl": "apk/EssayGrader-v2.4.apk",
+  "sha256": "576264c6d6723d8d8e544392adca2d40d7e6b0044ea80ef0f30c336a50e6503d",
+  "size": 12416772,
+  "notes": [
+    "文体自动识别（默认）",
+    "腾讯云 OCR 拍照识别",
+    "AI 思考过程流式预览",
+    "模型速度/质量对比与厂商图标",
+    "题目/作文一键清空",
+    "在线更新与公告系统"
+  ]
+}
